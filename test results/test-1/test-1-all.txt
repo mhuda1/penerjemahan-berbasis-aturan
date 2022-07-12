@@ -1,0 +1,2938 @@
+kalimat awal:  nanti saya nonton bioskop
+
+kalimat prediksi:  nanti saya nonton bioskop
+kalimat referensi:  nanti saya akan nonton ke bioskop
+
+NN PRP VB NN
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  besok pagi saya belanja pasar
+
+kalimat prediksi:  besok pagi saya belanja pasar
+kalimat referensi:  besok pagi saya akan belanja ke pasar
+
+NN NN PRP NN NN
+WER individual:  0.2857142857142857
+----------------------------------
+kalimat awal:  tidak boleh bicara sekarang
+
+kalimat prediksi:  tidak boleh bicara akan sekarang
+kalimat referensi:  serta tidak boleh bicara sekarang
+
+NEG MD VB NN
+WER individual:  0.4
+----------------------------------
+kalimat awal:  warga tidak boleh mudik akhir tahun
+
+kalimat prediksi:  warga tidak boleh mudik akan akhir tahun tentang tanpa
+kalimat referensi:  warga tidak boleh mudik akhir tahun
+
+NN NEG MD VB NN NN
+WER individual:  0.5
+----------------------------------
+kalimat awal:  tiap hari ayah olahraga lama 1 jam
+
+kalimat prediksi:  tiap hari ayah olahraga lama 1 jam
+kalimat referensi:  tiap hari ayah olahraga lama 1 jam
+
+CD NN NN VB JJ CD NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  tiap siang saya tidur lama 1 jam
+
+kalimat prediksi:  tiap siang saya tidur lama 1 jam
+kalimat referensi:  tiap siang saya tidur lama 1 jam
+
+CD NN PRP VB JJ CD NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  kalau berani saya berangkat
+
+kalimat prediksi:  kalau berani saya berangkat
+kalimat referensi:  kalau berani saya berangkat
+
+SC JJ PRP VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  walaupun sedih saya kerja
+
+kalimat prediksi:  walaupun sedih saya kerja
+kalimat referensi:  walaupun sedih saya kerja
+
+SC JJ PRP VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  adik saya biasa berangkat jam 7 pagi
+
+kalimat prediksi:  adik saya biasa berangkat jam 7 sampai pagi
+kalimat referensi:  adik saya biasa berangkat jam 7 pagi
+
+NN PRP RB VB NN CD NN
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  rani seringkali mandi pukul 6 pagi
+
+kalimat prediksi:  rani seringkali mandi pukul 6 sampai pagi
+kalimat referensi:  rani seringkali mandi pukul 6 pagi
+
+NNP RB VB NN CD NN
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  biarpun gagal saya senyum
+
+kalimat prediksi:  biarpun gagal saya senyum
+kalimat referensi:  biarpun gagal saya senyum
+
+SC VB PRP JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  walaupun kecewa saya tertawa
+
+kalimat prediksi:  walaupun kecewa saya tertawa
+kalimat referensi:  walaupun kecewa saya tertawa
+
+SC JJ PRP VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  anak laki laki itu senang karena ibu masak
+
+kalimat prediksi:  anak sejak laki laki itu senang karena ibu masak
+kalimat referensi:  anak laki laki itu senang karena ibu masak
+
+NN NN NN PR JJ SC NN VB
+WER individual:  0.125
+----------------------------------
+kalimat awal:  saya senang karena saya rasa puji ayah
+
+kalimat prediksi:  saya senang karena saya rasa puji di ayah
+kalimat referensi:  saya senang karena saya rasa puji oleh ayah
+
+PRP JJ SC PRP NN VB NN
+WER individual:  0.125
+----------------------------------
+kalimat awal:  adik sedih karena adik rasa ejek teman
+
+kalimat prediksi:  adik sedih karena adik rasa ejek teman
+kalimat referensi:  adik sedih karena adik rasa ejek oleh teman
+
+NN JJ SC NN VB VB NN
+WER individual:  0.125
+----------------------------------
+kalimat awal:  jangan cemas ayah harus kamu
+
+kalimat prediksi:  jangan cemas ayah harus kamu
+kalimat referensi:  jangan cemas ayah harus antar kamu
+
+NEG JJ NN MD PRP
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  pasien bingung mengapa pasien tidak boleh makan daging
+
+kalimat prediksi:  pasien bingung mengapa pasien tidak boleh makan akan daging
+kalimat referensi:  pasien bingung mengapa pasien tidak boleh makan daging
+
+NN JJ WH NN NEG MD VB NN
+WER individual:  0.125
+----------------------------------
+kalimat awal:  tiap sore kakak saya main badminton dan lari jarak pendek
+
+kalimat prediksi:  tiap sore kakak saya main badminton dan lari sejak jarak sejak pendek
+kalimat referensi:  tiap sore kakak saya main badminton dan lari jarak pendek
+
+CD NN NN PRP VB NN CC NN NN NN
+WER individual:  0.2
+----------------------------------
+kalimat awal:  sarah pinjam uang itu gadai
+
+kalimat prediksi:  sarah pinjam uang itu gadai
+kalimat referensi:  sarah pinjam uang itu dari gadai
+
+NNP VB NN PR NN
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  kakak pinjam buku baca
+
+kalimat prediksi:  kakak pinjam di buku baca
+kalimat referensi:  kakak akan pinjam buku baca
+
+NN VB NN VB
+WER individual:  0.4
+----------------------------------
+kalimat awal:  ayah saya beli saya motor
+
+kalimat prediksi:  ayah saya beli saya motor
+kalimat referensi:  ayah saya beli saya motor
+
+NN PRP VB PRP NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  apakah dia belum ambil paket menteri budiono ?
+
+kalimat prediksi:  apakah dia belum ambil paket menteri budiono ?
+kalimat referensi:  apakah dia belum ambil paket dari menteri budiono ?
+
+SC PRP NEG VB NN NNP NNP Z
+WER individual:  0.1111111111111111
+----------------------------------
+kalimat awal:  kamu tidak paham nyata saya
+
+kalimat prediksi:  kamu tidak paham nyata saya
+kalimat referensi:  kamu tidak paham nyata saya
+
+PRP NEG VB JJ PRP
+WER individual:  0.0
+----------------------------------
+kalimat awal:  lagu itu sudah dengar juta
+
+kalimat prediksi:  lagu itu sudah dengar juta
+kalimat referensi:  lagu itu sudah dengar oleh juta guna
+
+NN PR MD VB CD
+WER individual:  0.2857142857142857
+----------------------------------
+kalimat awal:  apakah kamu pernah tonton film bahasa jawa ?
+
+kalimat prediksi:  apakah kamu pernah tonton akan film bahasa jawa ?
+kalimat referensi:  apakah kamu pernah tonton film bahasa jawa ?
+
+WH PRP MD VB NN NNP NNP Z
+WER individual:  0.125
+----------------------------------
+kalimat awal:  rumah ini sewa ayah biaya dua juta
+
+kalimat prediksi:  rumah ini sewa seperti ayah sejak biaya dua juta
+kalimat referensi:  rumah ini sewa oleh ayah dengan biaya dua juta
+
+NN PR NN NN NN CD CD
+WER individual:  0.2222222222222222
+----------------------------------
+kalimat awal:  siswa itu puji guru
+
+kalimat prediksi:  siswa itu puji atas guru
+kalimat referensi:  siswa itu puji oleh guru
+
+NN PR VB NN
+WER individual:  0.2
+----------------------------------
+kalimat awal:  saya marah bapak
+
+kalimat prediksi:  saya marah bapak
+kalimat referensi:  saya marah oleh bapak
+
+PRP JJ NN
+WER individual:  0.25
+----------------------------------
+kalimat awal:  kucing itu kejar anjing
+
+kalimat prediksi:  kucing itu kejar atas anjing
+kalimat referensi:  kucing itu kejar anjing
+
+NN PR VB NN
+WER individual:  0.25
+----------------------------------
+kalimat awal:  adik dicerahami ibu
+
+kalimat prediksi:  adik dicerahami di ibu
+kalimat referensi:  adik dicerahami ibu
+
+NN VB NN
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  masker ini baik tiga kali minggu
+
+kalimat prediksi:  masker ini baik tiga kali minggu
+kalimat referensi:  masker ini baik guna tiga kali minggu
+
+NN PR JJ CD NN NN
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  tugas tanya saya mana saya sekolah
+
+kalimat prediksi:  tugas tanya saya mana saya sekolah
+kalimat referensi:  tugas tanya saya di mana saya sekolah
+
+NN VB PRP SC PRP VB
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  ibu tanya saya mana saya belanja
+
+kalimat prediksi:  ibu tanya saya mana saya belanja
+kalimat referensi:  ibu tanya saya ke mana saya belanja
+
+NN VB PRP SC PRP VB
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  apa kamu lamun ?
+
+kalimat prediksi:  apa kamu lamun ?
+kalimat referensi:  apa kamu lamun ?
+
+WH PRP X Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  mana adik lari ?
+
+kalimat prediksi:  mana adik lari ?
+kalimat referensi:  ke mana adik lari ?
+
+WH NN VB Z
+WER individual:  0.2
+----------------------------------
+kalimat awal:  mana kakak sekolah ?
+
+kalimat prediksi:  mana kakak sekolah ?
+kalimat referensi:  di mana kakak akan sekolah ?
+
+WH NN VB Z
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  kenapa besok kamu tidak sekolah ?
+
+kalimat prediksi:  kenapa besok kamu tidak sekolah ?
+kalimat referensi:  kenapa besok kamu tidak sekolah ?
+
+SC NN PRP NEG VB Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  bagaimana kondisi ayah ?
+
+kalimat prediksi:  bagaimana kondisi ayah ?
+kalimat referensi:  bagaimana kondisi ayah ?
+
+WH NN NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  bagaimana sehat adik ?
+
+kalimat prediksi:  bagaimana sehat adik ?
+kalimat referensi:  bagaimana sehat adik ?
+
+WH JJ NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  jam berapa kamu berangkat ?
+
+kalimat prediksi:  jam berapa kamu berangkat ?
+kalimat referensi:  jam berapa kamu berangkat ?
+
+NN WH PRP VB Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  buku apa kamu pinjam ?
+
+kalimat prediksi:  buku apa kamu pinjam ?
+kalimat referensi:  buku apa kamu pinjam ?
+
+NN WH PRP VB Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  kapan bapak beli sepeda ?
+
+kalimat prediksi:  kapan bapak beli di sepeda ?
+kalimat referensi:  kapan bapak beli sepeda ?
+
+WH NN VB NN Z
+WER individual:  0.2
+----------------------------------
+kalimat awal:  sepatu saya kecil sepatu adik saya besar
+
+kalimat prediksi:  sepatu saya kecil sepatu adik saya besar
+kalimat referensi:  sepatu saya kecil sepatu adik saya besar
+
+NN PRP JJ NN NN PRP JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  batik bal itu bagus tetapi mahal
+
+kalimat prediksi:  batik bal itu bagus tetapi mahal
+kalimat referensi:  batik bal itu bagus tetapi mahal
+
+NN NN PR JJ CC JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  gambar kurang jelas tidak dapat saya lihat
+
+kalimat prediksi:  gambar kurang jelas tidak dapat saya lihat
+kalimat referensi:  gambar kurang jelas tidak dapat saya lihat
+
+NN RB JJ NEG MD PRP VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  ratna suka makan asin dina suka makan manis
+
+kalimat prediksi:  ratna suka makan asin dina suka makan manis
+kalimat referensi:  ratna suka makan asin dina suka makan manis
+
+NNP VB VB JJ NNP RB VB JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  tolong nyala tv nya
+
+kalimat prediksi:  tolong nyala tv untuk nya
+kalimat referensi:  tolong nyala tv nya
+
+RB VB NN PRP
+WER individual:  0.25
+----------------------------------
+kalimat awal:  jangan teriak depan kelas
+
+kalimat prediksi:  jangan teriak depan tentang tanpa kelas
+kalimat referensi:  jangan teriak di depan kelas
+
+NEG VB NN NN
+WER individual:  0.6
+----------------------------------
+kalimat awal:  rampok itu tendang saya kali kali
+
+kalimat prediksi:  rampok itu tendang saya kali kali
+kalimat referensi:  rampok itu tendang saya kali kali
+
+NN PR VB PRP NN NND
+WER individual:  0.0
+----------------------------------
+kalimat awal:  dia anak nakal banyak orang benci
+
+kalimat prediksi:  dia anak nakal banyak orang benci
+kalimat referensi:  dia anak nakal banyak orang benci
+
+PRP NN JJ CD NN VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  dia masih ingat tragedi renggut dua orang tua 10 tahun lalu
+
+kalimat prediksi:  dia masih ingat akan tragedi renggut dua orang tua 10 tahun sampai lalu
+kalimat referensi:  dia masih ingat akan tragedi renggut dua orang tua 10 tahun lalu
+
+PRP MD VB NN VB CD NN NN CD NN CC
+WER individual:  0.08333333333333333
+----------------------------------
+kalimat awal:  aku tidak pernah bisa lupa budi baik keluarga kami
+
+kalimat prediksi:  aku tidak pernah bisa lupa akan budi baik tentang tanpa keluarga sejak kami
+kalimat referensi:  aku tidak akan pernah bisa lupa akan budi baik pada keluarga kami
+
+PRP NEG MD MD VB NN NN NN PRP
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  bagai atur itu izin
+
+kalimat prediksi:  bagai atur itu izin
+kalimat referensi:  bagai atur itu buat atas izin
+
+IN VB PR NN
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  saya turut duka cita tinggal orang tua
+
+kalimat prediksi:  saya turut duka tentang tanpa cita tinggal orang di tua tentang tanpa
+kalimat referensi:  saya turut duka cita atas tinggal orang tua
+
+PRP VB NN NN VB NN NN
+WER individual:  0.75
+----------------------------------
+kalimat awal:  rumah dan sekolah hanya tempuh 10 menit
+
+kalimat prediksi:  rumah dan sekolah hanya tempuh 10 menit
+kalimat referensi:  antara rumah dan sekolah hanya tempuh 10 menit
+
+NN CC NN RB VB CD NN
+WER individual:  0.125
+----------------------------------
+kalimat awal:  peperangan palestina dan israel tidak pernah akhir
+
+kalimat prediksi:  peperangan antara palestina dan israel tidak pernah akhir
+kalimat referensi:  peperangan antara palestina dan israel tidak pernah akhir
+
+NN NNP CC NNP NEG MD NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  gadis kecil jual goreng itu selalu lintas jalan ini pukul 3 pukul 5 sore
+
+kalimat prediksi:  gadis kecil jual goreng itu selalu lintas jalan ini pukul 3 sampai pukul 5 sore sampai
+kalimat referensi:  gadis kecil jual goreng itu selalu lintas di jalan ini antara pukul 3 sampai pukul 5 sore
+
+NN JJ VB NN PR RB VB NN PR NN CD NN CD NN
+WER individual:  0.17647058823529413
+----------------------------------
+kalimat awal:  saya tidak penting dia ikut atau tidak
+
+kalimat prediksi:  bagi saya tidak penting dia ikut atau tidak
+kalimat referensi:  bagi saya tidak penting dia ikut atau tidak
+
+PRP NEG JJ PRP VB CC NEG
+WER individual:  0.0
+----------------------------------
+kalimat awal:  merdeka negara republik indonesia dapat raih berkat juang pahlawan
+
+kalimat prediksi:  merdeka negara republik indonesia dapat raih berkat juang pahlawan
+kalimat referensi:  merdeka negara republik indonesia dapat raih berkat juang pahlawan
+
+JJ NN NNP NNP MD VB IN JJ NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  tari pendet asal bali
+
+kalimat prediksi:  tari pendet asal bali
+kalimat referensi:  tari pendet asal dari bali
+
+NN NN IN NNP
+WER individual:  0.2
+----------------------------------
+kalimat awal:  bis kota berangkat terminal
+
+kalimat prediksi:  bis kota berangkat di terminal
+kalimat referensi:  bis kota berangkat dari terminal
+
+NN NN VB NN
+WER individual:  0.2
+----------------------------------
+kalimat awal:  air mata tetes dua mata
+
+kalimat prediksi:  air sejak mata tetes dua sampai mata
+kalimat referensi:  air mata tetes dari dua mata
+
+NN NN NN CD NN
+WER individual:  0.5
+----------------------------------
+kalimat awal:  rumah saya berangkat jam 10 00
+
+kalimat prediksi:  rumah saya berangkat jam 10 00
+kalimat referensi:  dari rumah saya berangkat jam 10 00
+
+NN PRP VB NN CD CD
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  kerja tugas halaman 11 halaman 13
+
+kalimat prediksi:  kerja sejak tugas halaman 11 sampai halaman 13
+kalimat referensi:  kerja tugas dari halaman 11 sampai halaman 13
+
+NN NN NN CD NN CD
+WER individual:  0.25
+----------------------------------
+kalimat awal:  kita mulai kerja bakti ujung jalan ini
+
+kalimat prediksi:  kita mulai kerja tentang tanpa bakti sejak ujung sejak jalan ini
+kalimat referensi:  kita mulai kerja bakti dari ujung jalan ini
+
+PRP VB NN NN NN NN PR
+WER individual:  0.5
+----------------------------------
+kalimat awal:  sini kantor pos kira kira 1 kilometer
+
+kalimat prediksi:  sini kantor terhadap pos kira kira 1 kilometer
+kalimat referensi:  dari sini ke kantor pos kira kira 1 kilometer
+
+X NN NN RB RB CD NND
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  larang pindah buku buku tempat
+
+kalimat prediksi:  larang pindah buku tentang tanpa buku sejak tempat
+kalimat referensi:  larang pindah buku buku dari tempat
+
+VB VB NN NN NN
+WER individual:  0.5
+----------------------------------
+kalimat awal:  saya baru pulang sekolah
+
+kalimat prediksi:  saya baru pulang akan sekolah
+kalimat referensi:  saya baru pulang dari sekolah
+
+PRP MD VB NN
+WER individual:  0.2
+----------------------------------
+kalimat awal:  stasiun mana kereta api bisnis berangkat ?
+
+kalimat prediksi:  stasiun mana kereta sejak api bisnis berangkat ?
+kalimat referensi:  dari stasiun mana kereta api bisnis berangkat ?
+
+NN WH NN NN NN VB Z
+WER individual:  0.25
+----------------------------------
+kalimat awal:  kami kerja keras sejahtera keluarga
+
+kalimat prediksi:  kami kerja keras sejahtera keluarga
+kalimat referensi:  kami akan kerja keras demi sejahtera keluarga
+
+PRP NN JJ JJ NN
+WER individual:  0.2857142857142857
+----------------------------------
+kalimat awal:  penting bangun kami rela korban
+
+kalimat prediksi:  penting bangun kami rela korban
+kalimat referensi:  demi penting bangun kami rela korban
+
+JJ VB PRP VB NN
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  saya juang benar dan adil
+
+kalimat prediksi:  saya juang benar dan adil
+kalimat referensi:  saya juang demi benar dan adil
+
+PRP VB JJ CC JJ
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  angkat batu itu satu satu
+
+kalimat prediksi:  angkat batu itu satu satu
+kalimat referensi:  angkat batu itu satu demi satu
+
+VB NN PR CD CD
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  kertas itu bakar lembar lembar
+
+kalimat prediksi:  kertas itu bakar atas lembar lembar tentang tanpa
+kalimat referensi:  kertas itu bakar lembar demi lembar
+
+NN PR VB NN NN
+WER individual:  0.6666666666666666
+----------------------------------
+kalimat awal:  alloh saya tidak pernah ambil buku
+
+kalimat prediksi:  alloh saya tidak pernah ambil akan buku
+kalimat referensi:  demi alloh saya tidak pernah ambil buku
+
+NNP PRP NEG MD VB NN
+WER individual:  0.2857142857142857
+----------------------------------
+kalimat awal:  tuhan saya tidak tahu nahu urus itu
+
+kalimat prediksi:  tuhan saya tidak tahu nahu urus itu
+kalimat referensi:  demi tuhan saya tidak tahu nahu dengan urus itu
+
+NNP PRP NEG VB NNP VB PR
+WER individual:  0.2222222222222222
+----------------------------------
+kalimat awal:  kuasa alam segenap isi saya sumpah tetap tinggal sini
+
+kalimat prediksi:  kuasa alam segenap sampai isi saya sumpah tetap tinggal sini
+kalimat referensi:  demi kuasa alam dengan segenap isi saya sumpah akan tetap tinggal sini
+
+NN NN CD NN PRP NN RB VB VB
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  hasil uji nasional tahun ini 100 periksa komputer
+
+kalimat prediksi:  hasil uji nasional oleh tahun ini 100 periksa komputer
+kalimat referensi:  hasil uji nasional tahun ini 100 akan periksa dengan komputer
+
+NN NN JJ NN PR CD VB NN
+WER individual:  0.3
+----------------------------------
+kalimat awal:  rumah tua itu jual lengkap segala isi
+
+kalimat prediksi:  rumah tua itu jual lengkap segala isi
+kalimat referensi:  rumah tua itu jual lengkap dengan segala isi
+
+NN JJ PR VB JJ CD NN
+WER individual:  0.125
+----------------------------------
+kalimat awal:  kami terima sumbang itu senang hati
+
+kalimat prediksi:  kami terima sumbang itu senang hati
+kalimat referensi:  kami terima sumbang itu dengan senang hati
+
+PRP VB VB PR JJ JJ
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  nama allah rahmat tuhan restu orang tua
+
+kalimat prediksi:  nama allah rahmat sejak tuhan sejak restu sejak orang tua
+kalimat referensi:  dengan nama allah dengan rahmat tuhan dengan restu orang tua
+
+NN NNP NN NN NN NN NN
+WER individual:  0.5
+----------------------------------
+kalimat awal:  pak andi kerja bandung
+
+kalimat prediksi:  pak andi kerja dari bandung
+kalimat referensi:  pak andi kerja di bandung
+
+NNP NNP VB NNP
+WER individual:  0.2
+----------------------------------
+kalimat awal:  tanding sepakbola selenggara stadion
+
+kalimat prediksi:  tanding sepakbola selenggara di stadion
+kalimat referensi:  tanding sepakbola selenggara di stadion
+
+VB NN VB NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  larang bicara keras keras pustaka
+
+kalimat prediksi:  larang bicara keras keras pustaka
+kalimat referensi:  larang bicara keras keras di pustaka
+
+VB VB JJ JJ NN
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  pasar banyak orang jual
+
+kalimat prediksi:  pasar banyak sampai orang jual
+kalimat referensi:  di pasar banyak orang jual
+
+NN CD NN VB
+WER individual:  0.4
+----------------------------------
+kalimat awal:  sini semua anak harus sikap sopan
+
+kalimat prediksi:  sini semua sampai anak harus sikap sopan
+kalimat referensi:  di sini semua anak harus sikap sopan
+
+NN CD NN MD NN JJ
+WER individual:  0.2857142857142857
+----------------------------------
+kalimat awal:  kerja soal soal buku matematika halaman 23
+
+kalimat prediksi:  kerja sejak soal sejak soal sejak buku sejak matematika halaman 23
+kalimat referensi:  kerja soal soal di buku matematika halaman 23
+
+NN NN NN NN NN NN CD
+WER individual:  0.5
+----------------------------------
+kalimat awal:  bu guru tulis papan tulis
+
+kalimat prediksi:  bu guru tulis di papan tulis tentang tanpa
+kalimat referensi:  bu guru tulis di papan tulis
+
+NN NN VB NN NN
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  foto foto baik simpan album foto
+
+kalimat prediksi:  foto foto baik simpan album tentang tanpa foto
+kalimat referensi:  foto foto baik simpan di album foto
+
+NN NN JJ VB NN NN
+WER individual:  0.42857142857142855
+----------------------------------
+kalimat awal:  negara mana dapat menara eiffel ?
+
+kalimat prediksi:  negara mana dapat menara eiffel ?
+kalimat referensi:  di negara mana dapat menara eiffel ?
+
+NN WH VB NN NNP Z
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  rumah siapa kita kumpul nanti ?
+
+kalimat prediksi:  rumah siapa kita kumpul nanti ?
+kalimat referensi:  di rumah siapa kita kumpul nanti ?
+
+NN WH PRP VB NN Z
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  seragam sekolah adik simpan lemari
+
+kalimat prediksi:  seragam sejak sekolah adik simpan di lemari
+kalimat referensi:  seragam sekolah adik simpan dalam lemari
+
+NN NN NN VB NN
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  bencana banjir bandang jadi bulan lalu 40 orang nyata hilang
+
+kalimat prediksi:  bencana sejak banjir bandang jadi di bulan lalu 40 orang nyata hilang
+kalimat referensi:  dalam bencana banjir bandang jadi bulan lalu 40 orang nyata hilang
+
+NN NN NN VB NN CC CD NN JJ VB
+WER individual:  0.2727272727272727
+----------------------------------
+kalimat awal:  kurun waktu kurang 5 menit tiket konser salah satu band nama tanah air itu telah habis jual
+
+kalimat prediksi:  kurun terhadap waktu kurang 5 menit sejak tiket konser salah satu band sejak nama sejak tanah air itu telah habis jual
+kalimat referensi:  dalam kurun waktu kurang dari 5 menit tiket konser salah satu band nama tanah air itu telah habis jual
+
+NN NN RB CD NN NN NN CD CD NN NN NN NN PR MD VB VB
+WER individual:  0.3157894736842105
+----------------------------------
+kalimat awal:  ia menang panjang malam bengkak dua mata
+
+kalimat prediksi:  ia menang panjang demi malam bengkak dua mata
+kalimat referensi:  ia menang panjang malam hingga bengkak dua mata
+
+PRP VB JJ NN JJ CD NN
+WER individual:  0.25
+----------------------------------
+kalimat awal:  jelang tahun baru kita baharu tekad maju
+
+kalimat prediksi:  jelang tahun baru kita baharu tekad maju
+kalimat referensi:  jelang tahun baru kita baharu tekad untuk maju
+
+IN NNP NNP PRP JJ NN VB
+WER individual:  0.125
+----------------------------------
+kalimat awal:  dadang pulang kampung tasikmalaya
+
+kalimat prediksi:  dadang pulang kampung tasikmalaya
+kalimat referensi:  dadang pulang kampung ke tasikmalaya
+
+NNP VB VB NNP
+WER individual:  0.2
+----------------------------------
+kalimat awal:  saya pergi sekolah sepeda
+
+kalimat prediksi:  saya pergi sekolah tentang tanpa sepeda
+kalimat referensi:  saya pergi ke sekolah dengan sepeda
+
+PRP VB NN NN
+WER individual:  0.5
+----------------------------------
+kalimat awal:  tumpang silah naik pesawat
+
+kalimat prediksi:  tumpang silah naik pesawat
+kalimat referensi:  tumpang silah naik ke pesawat
+
+VB VB VB NN
+WER individual:  0.2
+----------------------------------
+kalimat awal:  ia berangkat kantor bis kota
+
+kalimat prediksi:  ia berangkat kantor tentang tanpa bis sejak kota
+kalimat referensi:  ia berangkat ke kantor guna bis kota
+
+PRP VB NN NN NN
+WER individual:  0.5714285714285714
+----------------------------------
+kalimat awal:  jantung pompa darah seluruh tubuh
+
+kalimat prediksi:  jantung pompa di darah seluruh tubuh sampai
+kalimat referensi:  jantung pompa darah ke seluruh tubuh
+
+NN VB NN CD NN
+WER individual:  0.5
+----------------------------------
+kalimat awal:  jahat itu bawa kantor polisi
+
+kalimat prediksi:  jahat itu bawa atas kantor polisi tentang tanpa
+kalimat referensi:  jahat itu bawa ke kantor polisi
+
+JJ PR VB NN NN
+WER individual:  0.5
+----------------------------------
+kalimat awal:  kita bisa unggah foto internet
+
+kalimat prediksi:  kita bisa unggah akan foto internet tentang tanpa
+kalimat referensi:  kita bisa unggah foto ke internet
+
+PRP MD VB NN NN
+WER individual:  0.6666666666666666
+----------------------------------
+kalimat awal:  garis lurus titik a titik b
+
+kalimat prediksi:  garis lurus oleh titik a titik b
+kalimat referensi:  buat garis lurus dari titik a ke titik b
+
+NN JJ NN NNP NN NN
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  berang berang biasa selam dasar sungai
+
+kalimat prediksi:  berang terhadap berang biasa selam dasar tentang tanpa sungai
+kalimat referensi:  berang berang biasa selam sampai ke dasar sungai
+
+NN NN RB VB NN NN
+WER individual:  0.5
+----------------------------------
+kalimat awal:  rumah siapa kamu pergi saat lebaran ?
+
+kalimat prediksi:  rumah siapa kamu pergi saat lebaran ?
+kalimat referensi:  ke rumah siapa kamu pergi saat lebaran ?
+
+NN WH PRP VB NN NNP Z
+WER individual:  0.125
+----------------------------------
+kalimat awal:  tidak ada hirau keluarga sendiri
+
+kalimat prediksi:  tidak ada hirau keluarga tentang tanpa sendiri
+kalimat referensi:  tidak ada hirau kecuali keluarga sendiri
+
+NEG VB VB NN NN
+WER individual:  0.5
+----------------------------------
+kalimat awal:  tenaga masih kurang angkat beban
+
+kalimat prediksi:  tenaga masih kurang angkat beban
+kalimat referensi:  tenaga masih kurang untuk angkat beban
+
+NN MD RB VB NN
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  tahan itu sudah tangkap kembali
+
+kalimat prediksi:  tahan itu sudah tangkap kembali
+kalimat referensi:  tahan lepas itu sudah tangkap kembali
+
+VB PR MD VB VB
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  negara itu sudah cengkeram jajah
+
+kalimat prediksi:  negara itu sudah cengkeram jajah
+kalimat referensi:  negara itu sudah lepas dari cengkeram jajah
+
+NN PR MD VB VB
+WER individual:  0.2857142857142857
+----------------------------------
+kalimat awal:  kereta api cepat jakarta surabaya semarang
+
+kalimat prediksi:  kereta api cepat jakarta surabaya semarang
+kalimat referensi:  kereta api cepat jakarta surabaya lewat semarang
+
+NN NN JJ NNP NNP NNP
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  jembatan hubung dua kabupaten itu dulunya resmi presiden sby
+
+kalimat prediksi:  jembatan hubung dua sampai kabupaten itu dulunya resmi presiden sby
+kalimat referensi:  jembatan hubung dua kabupaten itu dulunya resmi oleh presiden sby
+
+NN NN CD NN PR RB JJ NNP NNP
+WER individual:  0.2
+----------------------------------
+kalimat awal:  kemeja basah keringat
+
+kalimat prediksi:  kemeja basah oleh keringat
+kalimat referensi:  kemeja basah oleh keringat
+
+NN JJ NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  ibu guru suruh kami kerja soal halam 90 halaman 102
+
+kalimat prediksi:  ibu guru suruh kami kerja soal tentang tanpa halam 90 halaman sampai 102
+kalimat referensi:  ibu guru suruh kami kerja soal dari halam 90 sampai halaman 102
+
+NN NN VB PRP VB NN NN CD NN CD
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  kini teknologi komunikasi dapat tembus batas ruang dan waktu ada internet
+
+kalimat prediksi:  kini sejak teknologi komunikasi dapat tembus akan batas ruang tentang tanpa dan waktu ada internet di
+kalimat referensi:  kini teknologi komunikasi dapat tembus batas ruang dan waktu sejak ada internet
+
+NN NN NN MD VB NN NN CC NN VB NN
+WER individual:  0.5
+----------------------------------
+kalimat awal:  kue itu bentuk martabak
+
+kalimat prediksi:  kue itu bentuk seperti martabak
+kalimat referensi:  kue itu bentuk seperti martabak
+
+NN PR NN NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  segala gala laku perintah tuan
+
+kalimat prediksi:  segala gala sejak laku sejak perintah tuan
+kalimat referensi:  segala gala laku seperti perintah tuan
+
+CD NN NN NN NN
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  ayah beri jelas materi ajar tidak saya paham
+
+kalimat prediksi:  ayah beri jelas demi materi ajar tidak saya paham
+kalimat referensi:  ayah beri jelas tentang materi ajar tidak saya paham
+
+NN VB JJ NN VB NEG PRP VB
+WER individual:  0.1111111111111111
+----------------------------------
+kalimat awal:  esok hari mereka tuju bandung
+
+kalimat prediksi:  esok hari mereka tuju ke bandung
+kalimat referensi:  esok hari mereka tuju ke bandung
+
+NN NN PRP VB NNP
+WER individual:  0.0
+----------------------------------
+kalimat awal:  turut berita radio pagi ini presiden tinjau daerah tani sulawesi
+
+kalimat prediksi:  turut berita tentang tanpa radio sejak pagi ini presiden tinjau daerah tani sulawesi
+kalimat referensi:  turut berita radio pagi ini presiden akan tinjau daerah tani di sulawesi
+
+VB NN NN NN PR NNP VB NN JJ NNP
+WER individual:  0.4166666666666667
+----------------------------------
+kalimat awal:  tindak hadap musuh kejam
+
+kalimat prediksi:  tindak hadap di musuh kejam
+kalimat referensi:  tindak hadap musuh kejam
+
+NN VB NN JJ
+WER individual:  0.25
+----------------------------------
+kalimat awal:  beliau bawa kami
+
+kalimat prediksi:  beliau bawa kami
+kalimat referensi:  beliau bawa oleh oleh untuk kami
+
+PRP VB PRP
+WER individual:  0.5
+----------------------------------
+kalimat awal:  pupuk kirim tani
+
+kalimat prediksi:  pupuk kirim di tani
+kalimat referensi:  pupuk kirim untuk tani
+
+NN VB NN
+WER individual:  0.25
+----------------------------------
+kalimat awal:  ayah beli sepatu ibu
+
+kalimat prediksi:  ayah beli di sepatu ibu tentang tanpa
+kalimat referensi:  ayah beli sepatu untuk ibu
+
+NN VB NN NN
+WER individual:  0.8
+----------------------------------
+kalimat awal:  penting umum
+
+kalimat prediksi:  penting umum
+kalimat referensi:  untuk penting umum
+
+JJ JJ
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  kami rela korban
+
+kalimat prediksi:  kami rela korban
+kalimat referensi:  kami rela korban
+
+PRP VB NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  uang tidak ada arti
+
+kalimat prediksi:  uang tidak ada arti
+kalimat referensi:  uang tidak ada arti
+
+NN NEG VB NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  hadiah dua juta rupiah sedia karang baik
+
+kalimat prediksi:  hadiah dua juta rupiah sedia di karang baik
+kalimat referensi:  hadiah dua juta rupiah sedia untuk karang baik
+
+NN CD CD NN VB NN JJ
+WER individual:  0.125
+----------------------------------
+kalimat awal:  rusa lari cepat
+
+kalimat prediksi:  rusa lari cepat
+kalimat referensi:  rusa lari cepat
+
+NN VB JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  badak lebih besar daripada singa
+
+kalimat prediksi:  badak lebih besar daripada singa
+kalimat referensi:  badak lebih besar daripada singa
+
+NN RB JJ IN NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  kenapa kamu tidak suka harimau ?
+
+kalimat prediksi:  kenapa kamu tidak suka harimau ?
+kalimat referensi:  kenapa kamu tidak suka harimau ?
+
+WH PRP NEG VB NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  harimau itu buas
+
+kalimat prediksi:  harimau itu buas
+kalimat referensi:  harimau itu buas
+
+NN PR JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  harimau dan singa sama cepat
+
+kalimat prediksi:  harimau dan singa sama cepat
+kalimat referensi:  harimau dan singa sama cepat
+
+NN CC NN JJ JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  mana kelelawar gelayut ?
+
+kalimat prediksi:  mana kelelawar gelayut ?
+kalimat referensi:  di mana kelelawar gelayut ?
+
+WH NN VB Z
+WER individual:  0.2
+----------------------------------
+kalimat awal:  kelelawar gelayut pohon atau gua
+
+kalimat prediksi:  kelelawar gelayut di pohon atau gua
+kalimat referensi:  kelelawar gelayut di pohon atau gua
+
+NN VB NN CC NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  apa binatang paling kuat ?
+
+kalimat prediksi:  apa binatang paling kuat ?
+kalimat referensi:  apa binatang paling kuat ?
+
+WH NN RB JJ Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  gajah paling kuat
+
+kalimat prediksi:  gajah paling kuat
+kalimat referensi:  gajah paling kuat
+
+NN RB JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  binatang apa tinggal gua ?
+
+kalimat prediksi:  binatang apa tinggal gua ?
+kalimat referensi:  binatang apa tinggal di gua ?
+
+NN WH VB NN Z
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  harimau singa dan kelinci tinggal gua
+
+kalimat prediksi:  harimau singa dan kelinci tinggal di gua
+kalimat referensi:  harimau singa dan kelinci tinggal di gua
+
+NN NN CC NN VB NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  landak masuk gua
+
+kalimat prediksi:  landak masuk di gua
+kalimat referensi:  landak masuk ke dalam gua
+
+NN VB NN
+WER individual:  0.4
+----------------------------------
+kalimat awal:  buaya bisa hidup mana ?
+
+kalimat prediksi:  buaya bisa hidup mana ?
+kalimat referensi:  buaya bisa hidup di mana ?
+
+NN MD NN SC Z
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  buaya bisa hidup sungai dan tanah
+
+kalimat prediksi:  buaya bisa hidup akan sungai dan tanah
+kalimat referensi:  buaya bisa hidup di sungai dan tanah
+
+NN MD VB NN CC NN
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  saya tidak suka uang koin
+
+kalimat prediksi:  saya tidak suka uang tentang tanpa koin
+kalimat referensi:  saya tidak suka uang koin
+
+PRP NEG VB NN NN
+WER individual:  0.4
+----------------------------------
+kalimat awal:  apakah kamu punya uang ?
+
+kalimat prediksi:  apakah kamu punya uang ?
+kalimat referensi:  apakah kamu punya uang ?
+
+WH PRP VB NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya tidak punya uang
+
+kalimat prediksi:  saya tidak punya uang
+kalimat referensi:  saya tidak punya uang
+
+PRP NEG VB NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  kamu punya uang berapa ?
+
+kalimat prediksi:  kamu punya uang berapa ?
+kalimat referensi:  kamu punya uang berapa ?
+
+PRP VB NN WH Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya tidak punya uang
+
+kalimat prediksi:  saya tidak punya uang
+kalimat referensi:  saya tidak punya uang
+
+PRP NEG VB NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  berapa harga baju merah ?
+
+kalimat prediksi:  berapa harga sejak baju merah ?
+kalimat referensi:  berapa harga baju merah ?
+
+WH NN NN NN Z
+WER individual:  0.2
+----------------------------------
+kalimat awal:  saya bisa bantu tawar
+
+kalimat prediksi:  saya bisa bantu tawar
+kalimat referensi:  saya bisa bantu untuk tawar
+
+PRP MD VB VB
+WER individual:  0.2
+----------------------------------
+kalimat awal:  tidak bisa tawar
+
+kalimat prediksi:  tidak bisa tawar
+kalimat referensi:  tidak bisa tawar
+
+NEG MD VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  uang saya tidak cukup
+
+kalimat prediksi:  uang bagi saya tidak cukup
+kalimat referensi:  uang saya tidak cukup
+
+NN PRP NEG JJ
+WER individual:  0.25
+----------------------------------
+kalimat awal:  kira kira kamu mau berapa ?
+
+kalimat prediksi:  kira kira kamu mau berapa ?
+kalimat referensi:  kira kira kamu mau berapa ?
+
+RB RB PRP MD CD Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  kemarin saya beli 4 apel
+
+kalimat prediksi:  kemarin saya beli 4 apel
+kalimat referensi:  kemarin saya beli 4 apel
+
+NN PRP VB CD NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  kamu bisa tawar
+
+kalimat prediksi:  kamu bisa tawar
+kalimat referensi:  kamu bisa tawar
+
+PRP MD VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  apa kerja kamu sekarang ?
+
+kalimat prediksi:  apa kerja kamu sekarang ?
+kalimat referensi:  apa kerja kamu sekarang ?
+
+WH NN PRP NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya karyawan kantor
+
+kalimat prediksi:  saya karyawan kantor
+kalimat referensi:  saya karyawan kantor
+
+PRP NN NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  kerja apa kamu suka ?
+
+kalimat prediksi:  kerja apa kamu suka ?
+kalimat referensi:  kerja apa kamu suka ?
+
+NN WH PRP VB Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya suka jahit
+
+kalimat prediksi:  saya suka jahit
+kalimat referensi:  saya suka jahit
+
+PRP VB VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  mengapa kamu suka gunting rambut ?
+
+kalimat prediksi:  mengapa kamu suka gunting rambut ?
+kalimat referensi:  mengapa kamu suka gunting rambut ?
+
+WH PRP VB VB NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  mengapa kamu suka gunting rambut ?
+
+kalimat prediksi:  mengapa kamu suka gunting rambut ?
+kalimat referensi:  mengapa kamu suka gunting rambut ?
+
+WH PRP VB VB NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya punya ahli gunting rambut
+
+kalimat prediksi:  saya punya ahli gunting di rambut
+kalimat referensi:  saya punya ahli gunting rambut
+
+PRP VB NN VB NN
+WER individual:  0.2
+----------------------------------
+kalimat awal:  jam berapa kamu mulai kerja ?
+
+kalimat prediksi:  jam berapa kamu mulai kerja ?
+kalimat referensi:  jam berapa kamu mulai kerja ?
+
+NN WH PRP VB VB Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya mulai kerja jam 8 pagi
+
+kalimat prediksi:  saya mulai kerja tentang tanpa jam 8 pagi sampai
+kalimat referensi:  saya mulai kerja pada jam 8 pagi
+
+PRP VB NN NN CD NN
+WER individual:  0.42857142857142855
+----------------------------------
+kalimat awal:  ibu kamu kerja apa ?
+
+kalimat prediksi:  ibu kamu kerja apa ?
+kalimat referensi:  ibu kamu kerja apa ?
+
+NN PRP VB WH Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  ibu saya ibu rumah tangga
+
+kalimat prediksi:  ibu saya ibu sejak rumah tangga
+kalimat referensi:  ibu saya ibu rumah tangga
+
+NN PRP NN NN NN
+WER individual:  0.2
+----------------------------------
+kalimat awal:  kamu karyawan pabrik apa ?
+
+kalimat prediksi:  kamu karyawan pabrik apa ?
+kalimat referensi:  kamu karyawan pabrik apa ?
+
+PRP NN NN WH Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya karyawan pabrik jahit
+
+kalimat prediksi:  saya karyawan sejak pabrik jahit
+kalimat referensi:  saya karyawan pabrik jahit
+
+PRP NN NN NN
+WER individual:  0.25
+----------------------------------
+kalimat awal:  berapa jam kamu kerja satu hari ?
+
+kalimat prediksi:  berapa jam kamu kerja satu hari ?
+kalimat referensi:  berapa jam kamu kerja dalam satu hari ?
+
+WH NN PRP VB CD NN Z
+WER individual:  0.125
+----------------------------------
+kalimat awal:  saya kerja lama delapan jam
+
+kalimat prediksi:  saya kerja lama delapan jam
+kalimat referensi:  saya kerja lama delapan jam
+
+PRP NN JJ CD NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  berapa gaji satu bulan karyawan ?
+
+kalimat prediksi:  berapa gaji satu sampai bulan karyawan ?
+kalimat referensi:  berapa gaji satu bulan karyawan ?
+
+WH NN CD NN NN Z
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  gaji satu bulan satu juta
+
+kalimat prediksi:  gaji satu sampai bulan satu juta
+kalimat referensi:  gaji satu bulan satu juta
+
+NN CD NN CD CD
+WER individual:  0.2
+----------------------------------
+kalimat awal:  tukang kayu kerja mana ?
+
+kalimat prediksi:  tukang sejak kayu kerja mana ?
+kalimat referensi:  tukang kayu kerja di mana ?
+
+NN NN NN WH Z
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  tukang kayu kerja rumah atau bangun
+
+kalimat prediksi:  tukang sejak kayu sejak kerja rumah atau bangun
+kalimat referensi:  tukang kayu kerja di rumah atau bangun
+
+NN NN NN NN CC VB
+WER individual:  0.42857142857142855
+----------------------------------
+kalimat awal:  kerja tukang masak berat atau ringan ?
+
+kalimat prediksi:  kerja sejak tukang masak berat atau ringan ?
+kalimat referensi:  kerja tukang masak berat atau ringan ?
+
+NN NN NN JJ CC JJ Z
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  apa kerja bapak kamu ?
+
+kalimat prediksi:  apa kerja bapak kamu ?
+kalimat referensi:  apa kerja bapak kamu ?
+
+WH NN NN PRP Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  bapak kerja acara
+
+kalimat prediksi:  bapak kerja di acara
+kalimat referensi:  bapak kerja acara
+
+NN VB NN
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  kamu kerja awat lama berapa tahun ?
+
+kalimat prediksi:  kamu kerja awat lama berapa tahun ?
+kalimat referensi:  kamu kerja awat lama berapa tahun ?
+
+PRP NN X JJ WH NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  kamu kerja awat sudah berapa lama ?
+
+kalimat prediksi:  kamu kerja awat sudah berapa lama ?
+kalimat referensi:  kamu kerja awat sudah berapa lama ?
+
+PRP NN X MD WH JJ Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya sudah kerja awat lama satu tahun
+
+kalimat prediksi:  saya sudah kerja awat lama satu tahun
+kalimat referensi:  saya sudah kerja awat lama satu tahun
+
+PRP MD NN X JJ CD NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  kapan kamu jadi dokter ?
+
+kalimat prediksi:  kapan kamu jadi dokter ?
+kalimat referensi:  kapan kamu jadi dokter ?
+
+WH PRP VB NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya jadi dokter tahun 1994
+
+kalimat prediksi:  saya jadi dokter tentang tanpa tahun 1994
+kalimat referensi:  saya jadi dokter pada tahun 1994
+
+PRP VB NN NN CD
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  kamu kerja rumah sakit apa ?
+
+kalimat prediksi:  kamu kerja rumah tentang tanpa sakit apa ?
+kalimat referensi:  kamu kerja di rumah sakit apa ?
+
+PRP VB NN NN WH Z
+WER individual:  0.42857142857142855
+----------------------------------
+kalimat awal:  saya kerja rumah sakit asih
+
+kalimat prediksi:  saya kerja ke rumah sakit asih
+kalimat referensi:  saya kerja di rumah sakit asih
+
+PRP VB NNP NNP NNP
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  bagaimana cara kamu pergi pabrik ?
+
+kalimat prediksi:  bagaimana cara kamu pergi pabrik ?
+kalimat referensi:  bagaimana cara kamu pergi ke pabrik ?
+
+WH NN PRP VB NN Z
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  saya pergi pabrik bus usaha
+
+kalimat prediksi:  saya pergi pabrik tentang tanpa bus sejak usaha
+kalimat referensi:  saya pergi ke pabrik dengan bus usaha
+
+PRP VB NN NN NN
+WER individual:  0.5714285714285714
+----------------------------------
+kalimat awal:  apakah kamu tahu cara luk ?
+
+kalimat prediksi:  apakah kamu tahu cara luk ?
+kalimat referensi:  apakah kamu tahu cara luk ?
+
+WH PRP VB NN NNP Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya tidak tahu cara luk
+
+kalimat prediksi:  saya tidak tahu cara tentang tanpa luk
+kalimat referensi:  saya tidak tahu cara luk
+
+PRP NEG VB NN NN
+WER individual:  0.4
+----------------------------------
+kalimat awal:  apa kerja kamu impi ?
+
+kalimat prediksi:  apa kerja kamu impi ?
+kalimat referensi:  apa kerja kamu impi ?
+
+WH NN PRP VB Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya mimpi jadi aktor
+
+kalimat prediksi:  saya mimpi jadi di aktor
+kalimat referensi:  saya mimpi jadi aktor
+
+PRP NN VB NN
+WER individual:  0.25
+----------------------------------
+kalimat awal:  apakah nyanyi itu kenal ?
+
+kalimat prediksi:  apakah nyanyi itu kenal ?
+kalimat referensi:  apakah nyanyi itu kenal ?
+
+WH VB PR VB Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  nyanyi itu kenal
+
+kalimat prediksi:  nyanyi itu kenal
+kalimat referensi:  nyanyi itu kenal
+
+VB PR VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  baju apa kamu pakai hari ini ?
+
+kalimat prediksi:  baju apa kamu pakai hari tentang tanpa ini ?
+kalimat referensi:  baju apa kamu pakai hari ini ?
+
+NN WH PRP VB NN NN Z
+WER individual:  0.2857142857142857
+----------------------------------
+kalimat awal:  hari ini saya pakai baju kaus
+
+kalimat prediksi:  hari ini saya pakai baju tentang tanpa kaus
+kalimat referensi:  hari ini saya pakai baju kaus
+
+NN PR PRP VB NN NN
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  kamu sering kerja pakai celana apa ?
+
+kalimat prediksi:  kamu sering kerja pakai di celana apa ?
+kalimat referensi:  kamu sering kerja pakai celana apa ?
+
+PRP RB NN VB NN WH Z
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  saya sering pakai jeans
+
+kalimat prediksi:  saya sering pakai jeans
+kalimat referensi:  saya sering pakai jeans
+
+PRP RB VB NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  pakai apa jarang kamu pakai ?
+
+kalimat prediksi:  pakai apa jarang kamu pakai ?
+kalimat referensi:  pakai apa jarang kamu pakai ?
+
+VB WH RB PRP VB Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya jarang pakai baju koko
+
+kalimat prediksi:  saya jarang pakai baju tentang tanpa koko
+kalimat referensi:  saya jarang pakai baju koko
+
+PRP RB VB NN NN
+WER individual:  0.4
+----------------------------------
+kalimat awal:  apakah benar kemarin kamu pakai gaun ?
+
+kalimat prediksi:  apakah benar kemarin kamu pakai gaun ?
+kalimat referensi:  apakah benar kemarin kamu pakai gaun ?
+
+SC JJ NN PRP VB NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya pakai baju kerah dan rok
+
+kalimat prediksi:  saya pakai baju tentang tanpa kerah dan rok
+kalimat referensi:  saya pakai baju kerah dan rok
+
+PRP VB NN NN CC NN
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  kamu sering pakai baju apa musim panas ?
+
+kalimat prediksi:  kamu sering pakai baju apa musim panas ?
+kalimat referensi:  kamu sering pakai baju apa pada musim panas ?
+
+PRP RB VB NN WH NN NN Z
+WER individual:  0.1111111111111111
+----------------------------------
+kalimat awal:  saya sering pakai baju kaus musim panas
+
+kalimat prediksi:  saya sering pakai baju tentang tanpa kaus sejak musim sejak panas
+kalimat referensi:  saya sering pakai baju kaus pada musim panas
+
+PRP RB VB NN NN NN NN
+WER individual:  0.5
+----------------------------------
+kalimat awal:  model baju apa tidak kamu suka ?
+
+kalimat prediksi:  model baju apa tidak kamu suka ?
+kalimat referensi:  model baju apa tidak kamu suka ?
+
+NN NN WH NEG PRP VB Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya tidak suka baju koko
+
+kalimat prediksi:  saya tidak suka baju tentang tanpa koko
+kalimat referensi:  saya tidak suka baju koko
+
+PRP NEG VB NN NN
+WER individual:  0.4
+----------------------------------
+kalimat awal:  berapa orang punya baju kerah lengan panjang ?
+
+kalimat prediksi:  berapa orang punya di baju kerah tentang tanpa lengan sejak panjang sejak ?
+kalimat referensi:  berapa orang punya baju kerah lengan panjang ?
+
+CD NN VB NN NN NN NN Z
+WER individual:  0.625
+----------------------------------
+kalimat awal:  dua orang punya baju kerah lengan panjang
+
+kalimat prediksi:  dua orang punya di baju kerah tentang tanpa lengan sejak panjang sejak
+kalimat referensi:  dua orang punya baju kerah lengan panjang
+
+CD NN VB NN NN NN NN
+WER individual:  0.7142857142857143
+----------------------------------
+kalimat awal:  celana panjang itu warna apa ?
+
+kalimat prediksi:  celana panjang itu warna apa ?
+kalimat referensi:  celana panjang itu warna apa ?
+
+NN JJ PR NN WH Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  celana panjang itu warna hijau gelap
+
+kalimat prediksi:  celana panjang itu warna hijau gelap
+kalimat referensi:  celana panjang itu warna hijau gelap
+
+NN JJ PR NN JJ JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  coba pakai baju kamu beli
+
+kalimat prediksi:  coba pakai baju untuk kamu beli
+kalimat referensi:  coba pakai baju kamu beli
+
+RB VB NN PRP VB
+WER individual:  0.2
+----------------------------------
+kalimat awal:  saya tidak tahu cara setrika baju
+
+kalimat prediksi:  saya tidak tahu cara setrika di baju
+kalimat referensi:  saya tidak tahu cara setrika baju
+
+PRP NEG VB NN VB NN
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  apakah ada lampu lalu lintas jalan itu ?
+
+kalimat prediksi:  apakah ada lampu tentang tanpa lalu sejak lintas sejak jalan itu ?
+kalimat referensi:  apakah ada lampu lalu lintas di jalan itu ?
+
+WH VB NN NN NN NN PR Z
+WER individual:  0.4444444444444444
+----------------------------------
+kalimat awal:  jalan itu tidak ada lampu lalu lintas
+
+kalimat prediksi:  jalan itu tidak ada lampu tentang tanpa lalu sejak lintas
+kalimat referensi:  jalan itu tidak ada lampu lalu lintas
+
+NN PR NEG VB NN NN NN
+WER individual:  0.42857142857142855
+----------------------------------
+kalimat awal:  apakah ada jembatan jakarta bogor ?
+
+kalimat prediksi:  apakah ada jembatan jakarta bogor ?
+kalimat referensi:  apakah ada jembatan dari jakarta ke bogor ?
+
+WH VB NN NNP NNP Z
+WER individual:  0.25
+----------------------------------
+kalimat awal:  ada banyak jembatan
+
+kalimat prediksi:  ada banyak jembatan
+kalimat referensi:  ada banyak jembatan
+
+VB CD NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  orang orang jalan kaki mana ?
+
+kalimat prediksi:  orang orang jalan kaki mana ?
+kalimat referensi:  orang orang jalan-kaki di mana ?
+
+NN NN VB VB SC Z
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  orang orang jalan kaki trotoar
+
+kalimat prediksi:  orang orang jalan di kaki trotoar tentang tanpa
+kalimat referensi:  orang orang jalan-kaki di trotoar
+
+NN NN VB NN NN
+WER individual:  0.8
+----------------------------------
+kalimat awal:  saya selalu jalan kaki
+
+kalimat prediksi:  saya selalu jalan kaki
+kalimat referensi:  saya selalu jalan kaki
+
+PRP RB VB VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  kemarin jalan sudirman macet jam 11 siang
+
+kalimat prediksi:  kemarin jalan sudirman macet bagaikan jam 11 siang sampai
+kalimat referensi:  kemarin jalan sudirman macet dari jam 11 siang
+
+NN NN NNP JJ NN CD NN
+WER individual:  0.25
+----------------------------------
+kalimat awal:  daerah mana indonesia paling sering hujan ?
+
+kalimat prediksi:  daerah mana indonesia paling sering hujan ?
+kalimat referensi:  daerah mana di indonesia paling sering hujan ?
+
+NN WH NNP RB RB NN Z
+WER individual:  0.125
+----------------------------------
+kalimat awal:  hujan sering turun bogor
+
+kalimat prediksi:  hujan sering turun bogor
+kalimat referensi:  hujan sering turun di bogor
+
+NN RB VB NNP
+WER individual:  0.2
+----------------------------------
+kalimat awal:  bagaimana cuaca musim panas ?
+
+kalimat prediksi:  bagaimana cuaca sejak musim panas ?
+kalimat referensi:  bagaimana cuaca pada musim panas ?
+
+WH NN NN NN Z
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  musim panas cuaca panas
+
+kalimat prediksi:  musim sejak panas cuaca panas
+kalimat referensi:  pada musim panas cuaca panas
+
+NN NN NN JJ
+WER individual:  0.4
+----------------------------------
+kalimat awal:  mana ada salju indonesia ?
+
+kalimat prediksi:  mana ada salju indonesia ?
+kalimat referensi:  di mana ada salju di indonesia ?
+
+WH VB NN NNP Z
+WER individual:  0.2857142857142857
+----------------------------------
+kalimat awal:  papua indonesia timur
+
+kalimat prediksi:  papua indonesia timur
+kalimat referensi:  papua di indonesia bagi timur
+
+NNP NNP NNP
+WER individual:  0.4
+----------------------------------
+kalimat awal:  apa warna awan ?
+
+kalimat prediksi:  apa warna awan ?
+kalimat referensi:  apa warna awan ?
+
+WH NN NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  awan warna hitam dan putih
+
+kalimat prediksi:  awan warna hitam dan putih
+kalimat referensi:  awan warna hitam dan putih
+
+NN NN JJ CC JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  kapan kamu lihat pelangi ?
+
+kalimat prediksi:  kapan kamu lihat pelangi ?
+kalimat referensi:  kapan kamu lihat pelangi ?
+
+WH PRP VB NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  siapa takut petir ?
+
+kalimat prediksi:  siapa takut petir ?
+kalimat referensi:  siapa takut petir ?
+
+SC JJ NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya takut petir
+
+kalimat prediksi:  saya takut petir
+kalimat referensi:  saya takut petir
+
+PRP JJ NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya paling takut gempa bumi
+
+kalimat prediksi:  saya paling takut gempa bumi
+kalimat referensi:  saya paling takut gempa bumi
+
+PRP RB JJ NN NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  apakah pernah baju kamu basah ketika hujan ?
+
+kalimat prediksi:  apakah pernah baju kamu basah ketika hujan ?
+kalimat referensi:  apakah pernah baju kamu basah ketika hujan ?
+
+SC MD NN PRP JJ SC NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  baju saya pernah basah
+
+kalimat prediksi:  baju saya pernah basah
+kalimat referensi:  baju saya pernah basah
+
+NN PRP MD JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  apa bisa jadi ketika hujan ?
+
+kalimat prediksi:  apa bisa jadi ketika hujan ?
+kalimat referensi:  apa bisa jadi ketika hujan ?
+
+WH MD VB SC NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  ketika hujan kilat dan petir bisa jadi
+
+kalimat prediksi:  ketika hujan kilat dan petir bisa jadi
+kalimat referensi:  ketika hujan kilat dan petir bisa jadi
+
+SC NN NN CC NN MD VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  mulut apa ?
+
+kalimat prediksi:  mulut apa ?
+kalimat referensi:  mulut untuk apa ?
+
+NN WH Z
+WER individual:  0.25
+----------------------------------
+kalimat awal:  mulut kunyah dan makan
+
+kalimat prediksi:  mulut kunyah dan makan
+kalimat referensi:  mulut untuk kunyah dan makan
+
+NN VB CC VB
+WER individual:  0.2
+----------------------------------
+kalimat awal:  telinga apa ?
+
+kalimat prediksi:  telinga apa ?
+kalimat referensi:  telinga untuk apa ?
+
+NN WH Z
+WER individual:  0.25
+----------------------------------
+kalimat awal:  telinga dengar
+
+kalimat prediksi:  telinga dengar
+kalimat referensi:  telinga untuk dengar
+
+NN VB
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  apakah ular punya telinga ?
+
+kalimat prediksi:  apakah ular punya di telinga ?
+kalimat referensi:  apakah ular punya telinga ?
+
+WH NN VB NN Z
+WER individual:  0.2
+----------------------------------
+kalimat awal:  ular tidak punya telinga
+
+kalimat prediksi:  ular tidak punya telinga
+kalimat referensi:  ular tidak punya telinga
+
+NN NEG VB NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  binatang apa mata mirip mata manusia ?
+
+kalimat prediksi:  binatang apa mata mirip di mata manusia tentang tanpa ?
+kalimat referensi:  binatang apa mata mirip dengan mata manusia ?
+
+NN WH NN VB NN NN Z
+WER individual:  0.375
+----------------------------------
+kalimat awal:  mata manusia mirip mata rusa dan kucing
+
+kalimat prediksi:  mata manusia mirip di mata rusa tentang tanpa dan kucing
+kalimat referensi:  mata manusia mirip dengan mata rusa dan kucing
+
+NN NN VB NN NN CC NN
+WER individual:  0.375
+----------------------------------
+kalimat awal:  binatang apa tidak punya telinga ?
+
+kalimat prediksi:  binatang apa tidak punya telinga ?
+kalimat referensi:  binatang apa tidak punya telinga ?
+
+NN WH NEG VB NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  ular ikan dan buaya tidak punya telinga
+
+kalimat prediksi:  ular ikan dan buaya tidak punya telinga
+kalimat referensi:  ular ikan dan buaya tidak punya telinga
+
+NN NN CC NN RB VB NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  orang orang punya berapa gigi ?
+
+kalimat prediksi:  orang orang punya berapa gigi ?
+kalimat referensi:  orang orang punya berapa gigi ?
+
+NN NN VB CD NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  orang orang punya 32 gigi
+
+kalimat prediksi:  orang orang punya 32 gigi
+kalimat referensi:  orang orang punya 32 gigi
+
+NN NN VB CD NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  apakah rambut bisa hitung ?
+
+kalimat prediksi:  apakah rambut bisa hitung ?
+kalimat referensi:  apakah rambut bisa hitung ?
+
+SC NN MD VB Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  rambut tidak bisa hitung
+
+kalimat prediksi:  rambut tidak bisa hitung
+kalimat referensi:  rambut tidak bisa hitung
+
+NN RB MD VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  kamu suka alis apa ?
+
+kalimat prediksi:  kamu suka alis apa ?
+kalimat referensi:  kamu suka alis seperti apa ?
+
+PRP VB NN WH Z
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  saya suka alis tebal
+
+kalimat prediksi:  saya suka alis tebal
+kalimat referensi:  saya suka alis tebal
+
+PRP VB NN JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  apakah kamu sekarang lapar ?
+
+kalimat prediksi:  apakah kamu sekarang lapar ?
+kalimat referensi:  apakah kamu sekarang lapar ?
+
+WH PRP NN JJ Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya sudah makan
+
+kalimat prediksi:  saya sudah makan
+kalimat referensi:  saya sudah makan
+
+PRP MD VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  kenapa kamu capek ?
+
+kalimat prediksi:  kenapa kamu capek ?
+kalimat referensi:  kenapa kamu capek ?
+
+WH PRP JJ Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya ada banyak kerja
+
+kalimat prediksi:  saya ada banyak kerja
+kalimat referensi:  saya ada banyak kerja
+
+PRP VB CD NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya betul tidur awal
+
+kalimat prediksi:  saya betul tidur awal
+kalimat referensi:  saya betul tidur awal
+
+PRP JJ VB NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  binatang apa paling kamu takut ?
+
+kalimat prediksi:  binatang apa paling kamu takut ?
+kalimat referensi:  binatang apa paling kamu takut ?
+
+NN WH RB PRP VB Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya paling takut buaya
+
+kalimat prediksi:  saya paling takut buaya
+kalimat referensi:  saya paling takut pada buaya
+
+PRP RB JJ NN
+WER individual:  0.2
+----------------------------------
+kalimat awal:  kapan kamu sedih ?
+
+kalimat prediksi:  kapan kamu sedih ?
+kalimat referensi:  kapan kamu sedih ?
+
+SC PRP JJ Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  kalau saya tinggal jauh keluarga saya
+
+kalimat prediksi:  kalau saya tinggal jauh demi keluarga saya
+kalimat referensi:  kalau saya tinggal jauh dari keluarga saya
+
+SC PRP VB JJ NN PRP
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  saya pakai paling modern
+
+kalimat prediksi:  saya pakai paling modern
+kalimat referensi:  saya pakai paling modern
+
+PRP VB RB JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  itu jalan apa ?
+
+kalimat prediksi:  itu jalan apa ?
+kalimat referensi:  itu jalan apa ?
+
+PR NN WH Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  nama jalan itu sudirman
+
+kalimat prediksi:  nama jalan itu sudirman
+kalimat referensi:  nama jalan itu sudirman
+
+NN NN PR NNP
+WER individual:  0.0
+----------------------------------
+kalimat awal:  baju oranye saya pakai cocok ?
+
+kalimat prediksi:  baju oranye saya pakai cocok ?
+kalimat referensi:  baju oranye saya pakai cocok ?
+
+NN JJ PRP VB JJ Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  baju itu coklat terang
+
+kalimat prediksi:  baju itu coklat terang
+kalimat referensi:  baju itu coklat terang
+
+NN PR JJ JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  acara itu bagus atau jelek ?
+
+kalimat prediksi:  acara itu bagus atau jelek ?
+kalimat referensi:  acara itu bagus atau jelek ?
+
+NN PR JJ CC JJ Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  acara itu jelek
+
+kalimat prediksi:  acara itu jelek
+kalimat referensi:  acara itu jelek
+
+NN PR JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  apakah nyanyi itu punya mampu nyanyi ?
+
+kalimat prediksi:  apakah nyanyi itu punya mampu nyanyi ?
+kalimat referensi:  apakah nyanyi itu punya mampu nyanyi ?
+
+WH VB PR VB JJ VB Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  nyanyi itu punya mampu nyanyi
+
+kalimat prediksi:  nyanyi itu punya mampu nyanyi
+kalimat referensi:  nyanyi itu punya mampu nyanyi
+
+VB PR VB JJ VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  apakah kamu tahu orang ini ?
+
+kalimat prediksi:  apakah kamu tahu orang ini ?
+kalimat referensi:  apakah kamu tahu orang ini ?
+
+WH PRP VB NN PR Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  ada banyak kerja asing bekas
+
+kalimat prediksi:  ada banyak kerja asing oleh bekas
+kalimat referensi:  ada banyak kerja asing di bekas
+
+VB CD NN JJ NN
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  kerja paling saya suka ajar bisindo
+
+kalimat prediksi:  kerja paling saya suka ajar bisindo
+kalimat referensi:  kerja paling saya suka ajar bisindo
+
+NN RB PRP VB VB NNP
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya ingin ajar teori ajar bahasa isyarat
+
+kalimat prediksi:  saya ingin ajar teori ajar di bahasa isyarat tentang tanpa
+kalimat referensi:  saya ingin ajar teori ajar bahasa isyarat
+
+PRP RB VB NN VB NN NN
+WER individual:  0.42857142857142855
+----------------------------------
+kalimat awal:  jakarta sering jadi kelahi ajar
+
+kalimat prediksi:  jakarta sering jadi kelahi ajar
+kalimat referensi:  di jakarta sering jadi kelahi antar ajar
+
+NNP RB VB X JJ
+WER individual:  0.2857142857142857
+----------------------------------
+kalimat awal:  saya benci ajar matematika
+
+kalimat prediksi:  saya benci ajar matematika
+kalimat referensi:  saya benci ajar matematika
+
+PRP VB VB NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  anak saya belum bisa tulis
+
+kalimat prediksi:  anak saya belum bisa tulis
+kalimat referensi:  anak saya belum bisa tulis
+
+NN PRP NEG MD VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  tulis novel paling kenal indonesia pramudya
+
+kalimat prediksi:  tulis novel paling kenal indonesia pramudya
+kalimat referensi:  tulis novel paling kenal di indonesia pramudya
+
+VB NN RB VB NNP NNP
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  maaf saya tidak bisa baca tulis kamu
+
+kalimat prediksi:  maaf saya tidak bisa baca tulis kamu
+kalimat referensi:  maaf saya tidak bisa baca tulis kamu
+
+NN PRP NEG MD VB VB PRP
+WER individual:  0.0
+----------------------------------
+kalimat awal:  istri saya kerja baca berita tvri
+
+kalimat prediksi:  istri saya kerja baca berita tvri
+kalimat referensi:  istri saya kerja baca berita di tvri
+
+NN PRP VB VB NN NNP
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  nanti malam ada acara baca menang piala ffi
+
+kalimat prediksi:  nanti malam ada di acara baca menang piala ffi
+kalimat referensi:  nanti malam ada acara baca menang piala ffi
+
+NN NN VB NN VB VB NNP NNP
+WER individual:  0.125
+----------------------------------
+kalimat awal:  rampok kejam itu bunuh sopir grabcar
+
+kalimat prediksi:  rampok kejam itu bunuh atas sopir grabcar
+kalimat referensi:  rampok kejam itu bunuh sopir grabcar
+
+NN JJ PR VB NN NNP
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  bunuh itu jadi malam hari jalan sudirman
+
+kalimat prediksi:  bunuh itu jadi atas malam hari tentang tanpa jalan sudirman
+kalimat referensi:  bunuh itu jadi pada malam hari di jalan sudirman
+
+VB PR VB NN NN NNP NNP
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  polisi belum bisa tangkap bunuh sopir grabcar sebut
+
+kalimat prediksi:  polisi belum bisa tangkap bunuh sopir grabcar sebut
+kalimat referensi:  polisi belum bisa tangkap bunuh sopir grabcar sebut
+
+NN NEG MD VB VB NN NNP VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  nyanyi favorit saya krisdayanti
+
+kalimat prediksi:  nyanyi favorit saya krisdayanti
+kalimat referensi:  nyanyi favorit saya krisdayanti
+
+VB JJ PRP NNP
+WER individual:  0.0
+----------------------------------
+kalimat awal:  kecil dia latih nyanyi dan tari
+
+kalimat prediksi:  kecil dia latih nyanyi dan tari
+kalimat referensi:  sejak kecil dia latih nyanyi dan tari
+
+JJ PRP VB NN CC NN
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  salah orang peluk indonesia paling kenal jeihan
+
+kalimat prediksi:  salah orang peluk indonesia paling kenal jeihan
+kalimat referensi:  salah orang peluk indonesia paling kenal jeihan
+
+CD NN VB NNP RB VB NNP
+WER individual:  0.0
+----------------------------------
+kalimat awal:  lukis jeihan indah sekali
+
+kalimat prediksi:  lukis jeihan indah sekali
+kalimat referensi:  lukis jeihan indah sekali
+
+VB NN JJ RB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya suka luk pandang alam
+
+kalimat prediksi:  saya suka ke luk pandang alam
+kalimat referensi:  saya suka luk pandang alam
+
+PRP VB NNP VB NN
+WER individual:  0.2
+----------------------------------
+kalimat awal:  saya dengar cerita itu teman iwan
+
+kalimat prediksi:  saya dengar cerita itu teman iwan
+kalimat referensi:  saya dengar cerita itu dari teman iwan
+
+PRP VB NN PR NN NNP
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  iwan pukul kepala saya
+
+kalimat prediksi:  iwan pukul kepala untuk saya
+kalimat referensi:  iwan pukul kepala saya
+
+NNP VB NN PRP
+WER individual:  0.25
+----------------------------------
+kalimat awal:  pukul keras sekali
+
+kalimat prediksi:  pukul keras sekali
+kalimat referensi:  pukul keras sekali
+
+VB JJ RB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  pukul siswa guru itu sudah lapor polisi
+
+kalimat prediksi:  pukul siswa tentang tanpa guru itu sudah lapor polisi akan
+kalimat referensi:  pukul siswa oleh guru itu sudah lapor ke polisi
+
+VB NN NN PR MD VB NN
+WER individual:  0.4444444444444444
+----------------------------------
+kalimat awal:  saya tidak bisa kendara mobil
+
+kalimat prediksi:  saya tidak bisa kendara mobil
+kalimat referensi:  saya tidak bisa kendara mobil
+
+PRP NEG MD NN NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  sopir angkot itu tilang polisi
+
+kalimat prediksi:  sopir angkot itu tilang atas polisi
+kalimat referensi:  sopir angkot itu tilang polisi
+
+NN NN PR VB NN
+WER individual:  0.2
+----------------------------------
+kalimat awal:  kendara mobil itu mabuk
+
+kalimat prediksi:  kendara mobil itu mabuk
+kalimat referensi:  kendara mobil itu mabuk
+
+NN NN PR JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  orang islam tidak boleh makan daging babi
+
+kalimat prediksi:  orang islam tidak boleh makan akan daging babi tentang tanpa
+kalimat referensi:  orang islam tidak boleh makan daging babi
+
+NN NNP RB MD VB NN NN
+WER individual:  0.42857142857142855
+----------------------------------
+kalimat awal:  makan suka saya bakso
+
+kalimat prediksi:  makan suka saya bakso
+kalimat referensi:  makan suka saya bakso
+
+VB JJ PRP NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  harimau binatang makan daging
+
+kalimat prediksi:  harimau binatang makan di daging
+kalimat referensi:  harimau binatang makan daging
+
+NN NN VB NN
+WER individual:  0.25
+----------------------------------
+kalimat awal:  minum suka saya cocacola
+
+kalimat prediksi:  minum suka saya cocacola
+kalimat referensi:  minum suka saya cocacola
+
+VB VB PRP NNP
+WER individual:  0.0
+----------------------------------
+kalimat awal:  kita harus minum banyak air putih
+
+kalimat prediksi:  kita harus minum banyak air putih
+kalimat referensi:  kita harus minum banyak air putih
+
+PRP MD VB CD NN NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  tiap hari saya jalan kaki kaki 2 km
+
+kalimat prediksi:  tiap hari saya jalan kaki tentang tanpa kaki 2 km
+kalimat referensi:  tiap hari saya jalan-kaki kaki 2 km
+
+CD NN PRP VB NN NN CD NND
+WER individual:  0.5714285714285714
+----------------------------------
+kalimat awal:  pejal kaki tidak boleh pasuk jalan tol
+
+kalimat prediksi:  pejal kaki tidak boleh pasuk akan jalan tol tentang tanpa
+kalimat referensi:  pejal kaki tidak boleh pasuk jalan tol
+
+VB NN RB MD VB NN NN
+WER individual:  0.42857142857142855
+----------------------------------
+kalimat awal:  tiap pagi saya lari keliling lapang sepak bola
+
+kalimat prediksi:  tiap pagi saya lari keliling lapang oleh sepak bola
+kalimat referensi:  tiap pagi saya lari keliling lapang sepak bola
+
+CD NN PRP VB NN JJ NN NN
+WER individual:  0.125
+----------------------------------
+kalimat awal:  maradona main sepak bola paling hebat dunia
+
+kalimat prediksi:  maradona main sepak tentang tanpa bola terhadap paling hebat dunia
+kalimat referensi:  maradona main sepak bola paling hebat di dunia
+
+NNP VB NN NN RB JJ NN
+WER individual:  0.5
+----------------------------------
+kalimat awal:  maradona main sepak bola umur 5 tahun
+
+kalimat prediksi:  maradona main sepak tentang tanpa bola sejak umur 5 tahun sampai
+kalimat referensi:  maradona main sepak bola sejak umur 5 tahun
+
+NNP VB NN NN NN CD NN
+WER individual:  0.375
+----------------------------------
+kalimat awal:  banyak orang kagum main sepak bola maradona
+
+kalimat prediksi:  banyak orang kagum main sepak tentang tanpa bola maradona
+kalimat referensi:  banyak orang kagum dengan main sepak bola maradona
+
+CD NN JJ VB NN NN NNP
+WER individual:  0.375
+----------------------------------
+kalimat awal:  siapa lari cepat dunia ?
+
+kalimat prediksi:  siapa lari cepat demi dunia ?
+kalimat referensi:  siapa lari cepat di dunia ?
+
+SC VB JJ NN Z
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  saya ingin tanya kamu
+
+kalimat prediksi:  saya ingin tanya kamu
+kalimat referensi:  saya ingin tanya kamu
+
+PRP RB VB PRP
+WER individual:  0.0
+----------------------------------
+kalimat awal:  kamu boleh tanya saya
+
+kalimat prediksi:  kamu boleh tanya saya
+kalimat referensi:  kamu boleh tanya saya
+
+PRP MD VB PRP
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya tidak bisa jawab tanya kamu
+
+kalimat prediksi:  saya tidak bisa jawab tanya kamu
+kalimat referensi:  saya tidak bisa jawab tanya kamu
+
+PRP NEG MD VB VB PRP
+WER individual:  0.0
+----------------------------------
+kalimat awal:  semua jawab kamu salah
+
+kalimat prediksi:  semua jawab kamu salah
+kalimat referensi:  semua jawab kamu salah
+
+CD VB PRP JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  karena tidak punya uang orang itu curi makan
+
+kalimat prediksi:  karena tidak punya uang tentang tanpa orang itu curi makan
+kalimat referensi:  karena tidak punya uang orang itu curi makan
+
+SC NEG VB NN NN PR VB VB
+WER individual:  0.25
+----------------------------------
+kalimat awal:  polisi usaha tangkap curi itu
+
+kalimat prediksi:  polisi usaha tangkap curi itu
+kalimat referensi:  polisi usaha tangkap curi itu
+
+NN NN VB VB PR
+WER individual:  0.0
+----------------------------------
+kalimat awal:  curi itu akhir hasil tangkap
+
+kalimat prediksi:  curi itu akhir seperti hasil tangkap
+kalimat referensi:  curi itu akhir hasil tangkap
+
+VB PR NN NN VB
+WER individual:  0.2
+----------------------------------
+kalimat awal:  mobil curi itu jual harga murah
+
+kalimat prediksi:  mobil curi itu jual atas harga murah
+kalimat referensi:  mobil curi itu jual dengan harga murah
+
+NN VB PR VB NN JJ
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  lelaki itu usaha rampok mobil saya
+
+kalimat prediksi:  lelaki itu usaha rampok di mobil saya untuk
+kalimat referensi:  lelaki itu usaha rampok mobil saya
+
+NN PR NN VB NN PRP
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  rampok itu usaha bunuh saya
+
+kalimat prediksi:  rampok itu usaha bunuh saya
+kalimat referensi:  rampok itu usaha bunuh saya
+
+NN PR NN VB PRP
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya tidak bisa bunuh makhluk hidup
+
+kalimat prediksi:  saya tidak bisa bunuh akan makhluk hidup tentang tanpa
+kalimat referensi:  saya tidak bisa bunuh makhluk hidup
+
+PRP NEG MD VB NN NN
+WER individual:  0.5
+----------------------------------
+kalimat awal:  tadi malam saya tonton film india
+
+kalimat prediksi:  tadi malam saya tonton film india
+kalimat referensi:  tadi malam saya tonton film india
+
+NN NN PRP VB NN NNP
+WER individual:  0.0
+----------------------------------
+kalimat awal:  banyak tonton kecewa film itu
+
+kalimat prediksi:  banyak tonton kecewa demi film itu
+kalimat referensi:  banyak tonton kecewa dengan film itu
+
+CD VB JJ NN PR
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  celaka itu jadi tonton masyarakat
+
+kalimat prediksi:  celaka itu jadi tonton masyarakat
+kalimat referensi:  celaka itu jadi tonton masyarakat
+
+VB PR VB VB NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  jual itu tidak mau jual barang dagang harga murah
+
+kalimat prediksi:  jual itu tidak mau jual barang tentang tanpa dagang sejak harga murah
+kalimat referensi:  jual itu tidak mau jual barang dagang dengan harga murah
+
+VB PR NEG RB VB NN NN NN JJ
+WER individual:  0.3
+----------------------------------
+kalimat awal:  beli narkoba bisa hukum
+
+kalimat prediksi:  beli narkoba bisa hukum
+kalimat referensi:  beli narkoba bisa hukum
+
+VB NN MD NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  beli pesawat itu laku diam diam
+
+kalimat prediksi:  beli pesawat itu laku diam diam
+kalimat referensi:  beli pesawat itu laku diam diam
+
+VB NN PR JJ RB RB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  layan restoran ini muas
+
+kalimat prediksi:  layan restoran ini muas
+kalimat referensi:  layan di restoran ini muas
+
+VB NN PR JJ
+WER individual:  0.2
+----------------------------------
+kalimat awal:  layan harus layan langgan sopan
+
+kalimat prediksi:  layan harus layan langgan sopan
+kalimat referensi:  layan harus layan langgan dengan sopan
+
+VB MD VB VB JJ
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  mobil itu jepang
+
+kalimat prediksi:  mobil itu jepang
+kalimat referensi:  mobil itu buat jepang
+
+NN PR NNP
+WER individual:  0.25
+----------------------------------
+kalimat awal:  mobil listrik perlu waktu lama
+
+kalimat prediksi:  mobil listrik perlu waktu lama
+kalimat referensi:  buat mobil listrik perlu waktu lama
+
+NN NN MD NN JJ
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  indonesia sudah bisa mobil
+
+kalimat prediksi:  indonesia sudah bisa mobil
+kalimat referensi:  indonesia sudah bisa buat mobil
+
+NNP MD MD NN
+WER individual:  0.2
+----------------------------------
+kalimat awal:  besok saya mau pergi bandung
+
+kalimat prediksi:  besok saya mau pergi bandung
+kalimat referensi:  besok saya mau pergi ke bandung
+
+NN PRP MD VB NNP
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  kamu tidak boleh pulang sekarang
+
+kalimat prediksi:  kamu tidak boleh pulang akan sekarang
+kalimat referensi:  kamu tidak boleh pulang sekarang
+
+PRP NEG MD VB NN
+WER individual:  0.2
+----------------------------------
+kalimat awal:  tiap pagi saya jalan kaki lama 30 menit
+
+kalimat prediksi:  tiap pagi saya jalan kaki lama 30 menit
+kalimat referensi:  tiap pagi saya jalan-kaki lama 30 menit
+
+CD NN PRP VB VB JJ CD NN
+WER individual:  0.2857142857142857
+----------------------------------
+kalimat awal:  karena takut dia lari
+
+kalimat prediksi:  karena takut dia lari
+kalimat referensi:  karena takut dia lari
+
+SC JJ PRP VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  ibu saya biasa tidur jam 10 malam
+
+kalimat prediksi:  ibu saya biasa tidur jam 10 sampai malam
+kalimat referensi:  ibu saya biasa tidur jam 10 malam
+
+NN PRP RB VB NN CD NN
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  karena senang dia senyum
+
+kalimat prediksi:  karena senang dia senyum
+kalimat referensi:  karena senang dia senyum
+
+SC JJ PRP JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  anak perempuan itu sedih karena ayah tinggal
+
+kalimat prediksi:  anak perempuan itu sedih karena ayah tinggal
+kalimat referensi:  anak perempuan itu sedih karena ayah tinggal
+
+NN NN PR JJ SC NN VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya marah karena saya rasa hina dia
+
+kalimat prediksi:  saya marah karena saya rasa hina dia
+kalimat referensi:  saya marah karena saya rasa hina oleh dia
+
+PRP JJ SC PRP NN JJ PRP
+WER individual:  0.125
+----------------------------------
+kalimat awal:  jangan khawatir saya pasti bantu kamu
+
+kalimat prediksi:  jangan khawatir saya pasti bantu kamu
+kalimat referensi:  jangan khawatir saya pasti bantu kamu
+
+NEG JJ PRP RB VB PRP
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya bingung mengapa saya tidak boleh makan semangka
+
+kalimat prediksi:  saya bingung mengapa saya tidak boleh makan semangka
+kalimat referensi:  saya bingung mengapa saya tidak boleh makan semangka
+
+PRP VB WH PRP RB VB VB NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  tiap pagi ayah saya minum kopi dan makan nasi goreng
+
+kalimat prediksi:  tiap pagi ayah saya minum kopi dan makan nasi tentang tanpa goreng
+kalimat referensi:  tiap pagi ayah saya minum kopi dan makan nasi goreng
+
+CD NN NN PRP VB NN CC VB NN NN
+WER individual:  0.2
+----------------------------------
+kalimat awal:  adhi beli buku itu hong kong
+
+kalimat prediksi:  adhi beli buku itu hong kong
+kalimat referensi:  adhi beli buku itu di hong kong
+
+NNP VB NN PR NNP NNP
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  saya ingin jual sepeda motor saya
+
+kalimat prediksi:  saya ingin jual sepeda tentang tanpa motor saya
+kalimat referensi:  saya ingin jual sepeda motor saya
+
+PRP RB VB NN NN PRP
+WER individual:  0.3333333333333333
+----------------------------------
+kalimat awal:  kakak saya beri saya hadiah
+
+kalimat prediksi:  kakak saya beri saya hadiah
+kalimat referensi:  kakak saya beri saya hadiah
+
+NN PRP VB PRP NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  apakah kamu sudah terima surat presiden jokowi ?
+
+kalimat prediksi:  apakah kamu sudah terima akan surat presiden jokowi ?
+kalimat referensi:  apakah kamu sudah terima surat dari presiden jokowi ?
+
+SC PRP MD VB NN NNP NNP Z
+WER individual:  0.2222222222222222
+----------------------------------
+kalimat awal:  jahat itu pukul saya kali kali
+
+kalimat prediksi:  jahat itu pukul saya kali kali
+kalimat referensi:  jahat itu pukul saya kali kali
+
+JJ PR VB PRP NN NND
+WER individual:  0.0
+----------------------------------
+kalimat awal:  saya tidak erti tanya kamu
+
+kalimat prediksi:  saya tidak erti tanya kamu
+kalimat referensi:  saya tidak erti tanya kamu
+
+PRP NEG NN VB PRP
+WER individual:  0.0
+----------------------------------
+kalimat awal:  berita itu sudah tonton ribu orang
+
+kalimat prediksi:  berita itu sudah tonton ribu orang
+kalimat referensi:  berita itu sudah tonton oleh ribu orang
+
+NN PR MD VB CD NN
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  apakah kamu pernah baca novel bahasa inggris ?
+
+kalimat prediksi:  apakah kamu pernah baca akan novel bahasa inggris ?
+kalimat referensi:  apakah kamu pernah baca novel bahasa inggris ?
+
+WH PRP MD VB NN NNP NNP Z
+WER individual:  0.125
+----------------------------------
+kalimat awal:  hp ini beli laura harga tiga juta
+
+kalimat prediksi:  hp ini beli laura harga tiga juta
+kalimat referensi:  hp ini beli oleh laura dengan harga tiga juta
+
+NN PR VB NNP NN CD CD
+WER individual:  0.2222222222222222
+----------------------------------
+kalimat awal:  curi itu pukul polisi
+
+kalimat prediksi:  curi itu pukul atas polisi
+kalimat referensi:  curi itu pukul oleh polisi
+
+VB PR VB NN
+WER individual:  0.2
+----------------------------------
+kalimat awal:  kambing itu makan ular
+
+kalimat prediksi:  kambing itu makan atas ular
+kalimat referensi:  kambing itu makan ular
+
+NN PR VB NN
+WER individual:  0.25
+----------------------------------
+kalimat awal:  obat ini harus minum tiga kali hari
+
+kalimat prediksi:  obat ini harus minum tiga kali hari
+kalimat referensi:  obat ini harus minum tiga kali hari
+
+NN PR MD VB CD NN NN
+WER individual:  0.0
+----------------------------------
+kalimat awal:  dia tanya saya mana saya lahir
+
+kalimat prediksi:  dia tanya saya mana saya lahir
+kalimat referensi:  dia tanya saya di mana saya lahir
+
+PRP VB PRP WH PRP VB
+WER individual:  0.14285714285714285
+----------------------------------
+kalimat awal:  apa kamu pikir ?
+
+kalimat prediksi:  apa kamu pikir ?
+kalimat referensi:  apa kamu pikir ?
+
+WH PRP VB Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  mana kamu tinggal ?
+
+kalimat prediksi:  mana kamu tinggal ?
+kalimat referensi:  di mana kamu tinggal ?
+
+WH PRP VB Z
+WER individual:  0.2
+----------------------------------
+kalimat awal:  mana kamu mau pergi ?
+
+kalimat prediksi:  mana kamu mau pergi ?
+kalimat referensi:  ke mana kamu mau pergi ?
+
+WH PRP MD VB Z
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  mengapa kemarin kamu tidak kuliah ?
+
+kalimat prediksi:  mengapa kemarin kamu tidak kuliah ?
+kalimat referensi:  mengapa kemarin kamu tidak kuliah ?
+
+SC NN PRP NEG NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  bagaimana ada ibu ?
+
+kalimat prediksi:  bagaimana ada ibu ?
+kalimat referensi:  bagaimana ada ibu ?
+
+SC VB NN Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  jam berapa kita istirahat ?
+
+kalimat prediksi:  jam berapa kita istirahat ?
+kalimat referensi:  jam berapa kita istirahat ?
+
+NN WH PRP VB Z
+WER individual:  0.0
+----------------------------------
+kalimat awal:  kapan kamu ajar bisindo ?
+
+kalimat prediksi:  kapan kamu ajar ke bisindo ?
+kalimat referensi:  kapan kamu ajar bisindo ?
+
+SC PRP VB NNP Z
+WER individual:  0.2
+----------------------------------
+kalimat awal:  badan saya gemuk tetapi badan adik saya kurus
+
+kalimat prediksi:  badan saya gemuk tetapi badan sejak adik saya kurus
+kalimat referensi:  badan saya gemuk tetapi badan adik saya kurus
+
+NN PRP JJ CC NN NN PRP JJ
+WER individual:  0.125
+----------------------------------
+kalimat awal:  masakan padang itu enak tetapi mahal
+
+kalimat prediksi:  masakan padang itu enak tetapi mahal
+kalimat referensi:  masakan padang itu enak tetapi mahal
+
+NN NNP PR JJ CC JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  dia anak baik banyak orang suka
+
+kalimat prediksi:  dia anak baik banyak orang suka
+kalimat referensi:  dia anak baik banyak orang suka
+
+PRP NN JJ CD NN VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  artis korea itu tampan
+
+kalimat prediksi:  artis korea itu tampan
+kalimat referensi:  artis korea itu tampan
+
+NN NNP PR JJ
+WER individual:  0.0
+----------------------------------
+kalimat awal:  nyanyi cantik itu bisa main gitar
+
+kalimat prediksi:  nyanyi cantik itu bisa main akan gitar
+kalimat referensi:  nyanyi cantik itu bisa main gitar
+
+VB JJ PR MD VB NN
+WER individual:  0.16666666666666666
+----------------------------------
+kalimat awal:  tulis jelek tidak bisa saya baca
+
+kalimat prediksi:  tulis jelek tidak bisa saya baca
+kalimat referensi:  tulis jelek tidak bisa saya baca
+
+VB JJ NEG MD PRP VB
+WER individual:  0.0
+----------------------------------
+kalimat awal:  iwan pakai baju merah adhi pakai baju putih
+
+kalimat prediksi:  iwan pakai baju tentang tanpa merah adhi pakai baju putih tentang tanpa
+kalimat referensi:  iwan pakai baju merah adhi pakai baju putih
+
+NNP VB NN NN NNP VB NN NN
+WER individual:  0.5
+----------------------------------
+kalimat awal:  tolong mati ac nya
+
+kalimat prediksi:  tolong mati demi ac nya
+kalimat referensi:  tolong mati ac nya
+
+VB JJ NN PRP
+WER individual:  0.25
+----------------------------------
+kalimat awal:  jangan duduk meja
+
+kalimat prediksi:  jangan duduk meja
+kalimat referensi:  jangan duduk di atas meja
+
+NEG VB NN
+WER individual:  0.4
+----------------------------------
+WER:  0.183206106870229
+=======
